@@ -1,6 +1,8 @@
-## Hi there 👋
+## AlextheAnalyst7 
 
-<!--
+ About me
+
+ I am a GIS Analyst looking to make more bandos and get bigger brains by using github.
 **AlextheAnalyst7/AlextheAnalyst7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
